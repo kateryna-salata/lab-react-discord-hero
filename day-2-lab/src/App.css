@@ -1,0 +1,10 @@
+body {
+  margin: 0 auto;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(97, 43, 223);
+}
+
+.header {
+  font-family: 'Poppins', sans-serif;
+}
