@@ -1,6 +1,6 @@
 const DownloadBtn = () => {
   return (
-    <button className="download-btn">Download for Mac</button>
+    <button className="btn">Download for Mac</button>
   );
 };
   

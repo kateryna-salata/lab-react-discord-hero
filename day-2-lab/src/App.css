@@ -2,9 +2,55 @@ body {
   margin: 0 auto;
   text-align: left;
   font-family: 'Roboto', sans-serif;
-  background-color: rgb(97, 43, 223);
+  background-color: rgb(59, 22, 221);
+  color: white;
+  font-size: 22px;
+}
+
+.navbar {
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 35px;
+}
+
+.main-wrapper {
+  margin-left: 35px;
 }
 
 .header {
   font-family: 'Poppins', sans-serif;
+  font-size: 60px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  font-size: 26px;
+  background-color: rgb(255, 255, 255);
+  width: 65%;
+  border: none;
+  border-radius: 50px;
+  padding: 20px;
+  margin: 10px 0 15px 0;
+}
+
+.open-btn {
+  color: white;
+  background-color: black;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.discord-img {
+  height: 550px;
+  margin-top: -40px;
 }

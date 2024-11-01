@@ -1,6 +1,6 @@
 const OpenBtn = () => {
   return (
-    <button className="open-btn">Open Discord in your browser</button>
+    <button className="btn open-btn">Open Discord in your browser</button>
   );
 };
   
